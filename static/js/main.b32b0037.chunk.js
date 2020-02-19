@@ -1,0 +1,2 @@
+(this["webpackJsonpexchange-rate"]=this["webpackJsonpexchange-rate"]||[]).push([[0],[,,,function(e,n,t){e.exports=t(10)},,,,,function(e,n,t){},function(e,n,t){},function(e,n,t){"use strict";t.r(n);var a=t(0),c=t.n(a),r=t(2),o=t.n(r);t(8),t(9);var s=function(){return c.a.createElement("div",{className:"App"})};o.a.render(c.a.createElement(s,null),document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.b32b0037.chunk.js.map
