@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/marshall405/exchange-rate-app/static/css/main.57fa44f8.chunk.css",
-    "main.js": "/marshall405/exchange-rate-app/static/js/main.2a3543bc.chunk.js",
-    "main.js.map": "/marshall405/exchange-rate-app/static/js/main.2a3543bc.chunk.js.map",
-    "runtime-main.js": "/marshall405/exchange-rate-app/static/js/runtime-main.bcce47af.js",
-    "runtime-main.js.map": "/marshall405/exchange-rate-app/static/js/runtime-main.bcce47af.js.map",
-    "static/js/2.da9ed2e8.chunk.js": "/marshall405/exchange-rate-app/static/js/2.da9ed2e8.chunk.js",
-    "static/js/2.da9ed2e8.chunk.js.map": "/marshall405/exchange-rate-app/static/js/2.da9ed2e8.chunk.js.map",
-    "index.html": "/marshall405/exchange-rate-app/index.html",
-    "precache-manifest.05a32bf26a16f63cf6d7bdda38cc0694.js": "/marshall405/exchange-rate-app/precache-manifest.05a32bf26a16f63cf6d7bdda38cc0694.js",
-    "service-worker.js": "/marshall405/exchange-rate-app/service-worker.js",
-    "static/css/main.57fa44f8.chunk.css.map": "/marshall405/exchange-rate-app/static/css/main.57fa44f8.chunk.css.map",
-    "static/js/2.da9ed2e8.chunk.js.LICENSE.txt": "/marshall405/exchange-rate-app/static/js/2.da9ed2e8.chunk.js.LICENSE.txt"
+    "main.css": "/exchange-rate-app/static/css/main.57fa44f8.chunk.css",
+    "main.js": "/exchange-rate-app/static/js/main.2a3543bc.chunk.js",
+    "main.js.map": "/exchange-rate-app/static/js/main.2a3543bc.chunk.js.map",
+    "runtime-main.js": "/exchange-rate-app/static/js/runtime-main.67c1b308.js",
+    "runtime-main.js.map": "/exchange-rate-app/static/js/runtime-main.67c1b308.js.map",
+    "static/js/2.da9ed2e8.chunk.js": "/exchange-rate-app/static/js/2.da9ed2e8.chunk.js",
+    "static/js/2.da9ed2e8.chunk.js.map": "/exchange-rate-app/static/js/2.da9ed2e8.chunk.js.map",
+    "index.html": "/exchange-rate-app/index.html",
+    "precache-manifest.6fd96188d526e2684798f1ad594f4a31.js": "/exchange-rate-app/precache-manifest.6fd96188d526e2684798f1ad594f4a31.js",
+    "service-worker.js": "/exchange-rate-app/service-worker.js",
+    "static/css/main.57fa44f8.chunk.css.map": "/exchange-rate-app/static/css/main.57fa44f8.chunk.css.map",
+    "static/js/2.da9ed2e8.chunk.js.LICENSE.txt": "/exchange-rate-app/static/js/2.da9ed2e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bcce47af.js",
+    "static/js/runtime-main.67c1b308.js",
     "static/js/2.da9ed2e8.chunk.js",
     "static/css/main.57fa44f8.chunk.css",
     "static/js/main.2a3543bc.chunk.js"
