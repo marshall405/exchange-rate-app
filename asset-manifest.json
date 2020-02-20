@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/marshall405/exchange-rate-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/marshall405/exchange-rate-app/static/js/main.b32b0037.chunk.js",
-    "main.js.map": "/marshall405/exchange-rate-app/static/js/main.b32b0037.chunk.js.map",
+    "main.css": "/marshall405/exchange-rate-app/static/css/main.57fa44f8.chunk.css",
+    "main.js": "/marshall405/exchange-rate-app/static/js/main.2a3543bc.chunk.js",
+    "main.js.map": "/marshall405/exchange-rate-app/static/js/main.2a3543bc.chunk.js.map",
     "runtime-main.js": "/marshall405/exchange-rate-app/static/js/runtime-main.bcce47af.js",
     "runtime-main.js.map": "/marshall405/exchange-rate-app/static/js/runtime-main.bcce47af.js.map",
-    "static/js/2.0d3bd69e.chunk.js": "/marshall405/exchange-rate-app/static/js/2.0d3bd69e.chunk.js",
-    "static/js/2.0d3bd69e.chunk.js.map": "/marshall405/exchange-rate-app/static/js/2.0d3bd69e.chunk.js.map",
+    "static/js/2.da9ed2e8.chunk.js": "/marshall405/exchange-rate-app/static/js/2.da9ed2e8.chunk.js",
+    "static/js/2.da9ed2e8.chunk.js.map": "/marshall405/exchange-rate-app/static/js/2.da9ed2e8.chunk.js.map",
     "index.html": "/marshall405/exchange-rate-app/index.html",
-    "precache-manifest.10991a42813c5aaa8e64aeeecebf8864.js": "/marshall405/exchange-rate-app/precache-manifest.10991a42813c5aaa8e64aeeecebf8864.js",
+    "precache-manifest.cfb8d38a700c2cca00317c39c0978658.js": "/marshall405/exchange-rate-app/precache-manifest.cfb8d38a700c2cca00317c39c0978658.js",
     "service-worker.js": "/marshall405/exchange-rate-app/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/marshall405/exchange-rate-app/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.0d3bd69e.chunk.js.LICENSE.txt": "/marshall405/exchange-rate-app/static/js/2.0d3bd69e.chunk.js.LICENSE.txt"
+    "static/css/main.57fa44f8.chunk.css.map": "/marshall405/exchange-rate-app/static/css/main.57fa44f8.chunk.css.map",
+    "static/js/2.da9ed2e8.chunk.js.LICENSE.txt": "/marshall405/exchange-rate-app/static/js/2.da9ed2e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bcce47af.js",
-    "static/js/2.0d3bd69e.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.b32b0037.chunk.js"
+    "static/js/2.da9ed2e8.chunk.js",
+    "static/css/main.57fa44f8.chunk.css",
+    "static/js/main.2a3543bc.chunk.js"
   ]
 }
