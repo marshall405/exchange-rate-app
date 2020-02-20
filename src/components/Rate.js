@@ -1,21 +1,30 @@
-import React from 'react'
+import React, { useRef } from 'react'
 
 import '../styles/Rate.css'
-import currencyJSON from '../currency.json'
 
-export default function Rate({ rates }) {
-    const ratesObj = new Object(rates)
-    const codes = Object.keys(ratesObj).sort((a, b) => a[0] > b[0]);
 
+export default function Rate({ data, rate }) {
+    const li = useRef()
+
+    function handleClick() {
+        let showDiv = li.current.nextElementSibling
+        if (window.getComputedStyle(showDiv).display === 'none') {
+            showDiv.style.display = 'block'
+        }
+    }
     return (
-        <ul className='rates-list-container'>
-            {codes.map(code => {
-                return (
-                    <li key={code}>
-                        <span>{code}</span>: ${rates[code]}
-                    </li>
-                )
-            })}
-        </ul>
+        <div style={{ position: "relative" }}>
+            <li ref={li} onClick={handleClick}> <span>{data.currencyCode}</span>: ${(data.currencyRate * rate).toFixed(2)}</li>
+            <div className='show'>
+                <label>
+                    <span>Currency Name:</span>{data.currencyName}
+                </label>
+                <br />
+                <label>
+                    <span>Country:</span> {data.currencyCountry}
+                </label>
+            </div>
+
+        </div>
     )
 }

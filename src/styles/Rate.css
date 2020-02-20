@@ -1,3 +1,6 @@
+:root {
+    --primary-color: #e7f644;;
+}
 .rates-list-container {
     display: flex;
     flex-wrap: wrap;
@@ -5,11 +8,30 @@
 }
 
 .rates-list-container li {
-    margin: 5px;
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 7px;
     border: 1px solid lightgray;
-    padding: 5px;
-    border-radius: 5px;
+    padding: 7px;
+    border-radius: 15px;
     box-shadow: 1px 1px 1px black;
+}
+.rates-list-container li:hover {
+    background-color:var(--primary-color);
+}
+.show {
+    display: none;
+    background-color: #8eb9c1;
+    margin: 0;
+    width: 200px;
+    padding: 15px;
+    z-index: 1;
+    position: absolute;
+    word-wrap: break-word;
+    border-radius: 20px;
+}
+.rates-list-container li:hover + div.show {
+    display: block;
 }
 .rates-list-container span {
     font-size: 1.1em;

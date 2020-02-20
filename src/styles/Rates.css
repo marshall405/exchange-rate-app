@@ -1,0 +1,8 @@
+.enterAmount {
+    border: none;
+    padding: 5px;
+    width: 140px;
+    text-align: center;
+    border-bottom: 1px solid black;
+    font-size: 22px;
+}
