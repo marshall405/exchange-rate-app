@@ -1,0 +1,12 @@
+.App {
+  padding: 0;
+  margin: 0;
+}
+
+main {
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+

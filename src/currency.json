@@ -1,0 +1,347 @@
+[
+    {
+        "currencyCode": "AED",
+        "currencyName": "UAE Dirham",
+        "currencyCountry": "United Arab Emirates"
+    },
+    {
+        "currencyCode": "ARS",
+        "currencyName": "Argentine Peso",
+        "currencyCountry": "Argentina"
+    },
+    {
+        "currencyCode": "AUD",
+        "currencyName": "Australian Dollar",
+        "currencyCountry": "Australia"
+    },
+    {
+        "currencyCode": "BGN",
+        "currencyName": "Bulgarian Lev",
+        "currencyCountry": "Bulgaria"
+    },
+    {
+        "currencyCode": "BRL",
+        "currencyName": "Brazilian Real",
+        "currencyCountry": "Brazil"
+    },
+    {
+        "currencyCode": "BSD",
+        "currencyName": "Bahamian Dollar",
+        "currencyCountry": "Bahamas"
+    },
+    {
+        "currencyCode": "CAD",
+        "currencyName": "Canadian Dollar",
+        "currencyCountry": "Canada"
+    },
+    {
+        "currencyCode": "CHF",
+        "currencyName": "Swiss Franc",
+        "currencyCountry": "Switzerland"
+    },
+    {
+        "currencyCode": "CLP",
+        "currencyName": "Chilean Peso",
+        "currencyCountry": "Chile"
+    },
+    {
+        "currencyCode": "CNY",
+        "currencyName": "Chinese Renminbi",
+        "currencyCountry": "China"
+    },
+    {
+        "currencyCode": "COP",
+        "currencyName": "Colombian Peso",
+        "currencyCountry": "Colombia"
+    },
+    {
+        "currencyCode": "CZK",
+        "currencyName": "Czech Koruna",
+        "currencyCountry": "Czech Republic"
+    },
+    {
+        "currencyCode": "DKK",
+        "currencyName": "Danish Krone",
+        "currencyCountry": "Denmark"
+    },
+    {
+        "currencyCode": "DOP",
+        "currencyName": "Dominican Peso",
+        "currencyCountry": "Dominican Republic"
+    },
+    {
+        "currencyCode": "EGP",
+        "currencyName": "Egyptian Pound",
+        "currencyCountry": "Egypt"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Germany"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Austria"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Belgium"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Cyprus"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Estonia"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Finland"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "France"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Greece"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Ireland"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Italy"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Latvia"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Lithuania"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Luxembourg"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Malta"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Netherlands"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Portugal"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Slovakia"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Slovenia"
+    },
+    {
+        "currencyCode": "EUR",
+        "currencyName": "Euro",
+        "currencyCountry": "Spain"
+    },
+    {
+        "currencyCode": "FJD",
+        "currencyName": "Fiji Dollar",
+        "currencyCountry": "Fiji"
+    },
+    {
+        "currencyCode": "GBP",
+        "currencyName": "Pound Sterling",
+        "currencyCountry": "United Kingdom"
+    },
+    {
+        "currencyCode": "GTQ",
+        "currencyName": "Guatemalan Quetzal",
+        "currencyCountry": "Guatemala"
+    },
+    {
+        "currencyCode": "HKD",
+        "currencyName": "Hong Kong Dollar",
+        "currencyCountry": "Hong Kong"
+    },
+    {
+        "currencyCode": "HRK",
+        "currencyName": "Croatian Kuna",
+        "currencyCountry": "Croatian"
+    },
+    {
+        "currencyCode": "HUF",
+        "currencyName": "Hungarian Forint",
+        "currencyCountry": "Hungary"
+    },
+    {
+        "currencyCode": "IDR",
+        "currencyName": "Indonesian Rupiah",
+        "currencyCountry": "Indonesia"
+    },
+    {
+        "currencyCode": "ILS",
+        "currencyName": "Israeli Shekel",
+        "currencyCountry": "Israel"
+    },
+    {
+        "currencyCode": "INR",
+        "currencyName": "Indian Rupee",
+        "currencyCountry": "India"
+    },
+    {
+        "currencyCode": "ISK",
+        "currencyName": "Icelandic Krona",
+        "currencyCountry": "Iceland"
+    },
+    {
+        "currencyCode": "JPY",
+        "currencyName": "Japanese Yen",
+        "currencyCountry": "Japan"
+    },
+    {
+        "currencyCode": "KRW",
+        "currencyName": "South Korean Won",
+        "currencyCountry": "Korea"
+    },
+    {
+        "currencyCode": "KZT",
+        "currencyName": "Kazakhstani Tenge",
+        "currencyCountry": "Kazakhstan"
+    },
+    {
+        "currencyCode": "MXN",
+        "currencyName": "Mexican Peso",
+        "currencyCountry": "Mexico"
+    },
+    {
+        "currencyCode": "MYR",
+        "currencyName": "Malaysian Ringgit",
+        "currencyCountry": "Malaysia"
+    },
+    {
+        "currencyCode": "NOK",
+        "currencyName": "Norwegian Krone",
+        "currencyCountry": "Norway"
+    },
+    {
+        "currencyCode": "NZD",
+        "currencyName": "New Zealand Dollar",
+        "currencyCountry": "New Zealand"
+    },
+    {
+        "currencyCode": "PAB",
+        "currencyName": "Panamanian Balboa",
+        "currencyCountry": "Panama"
+    },
+    {
+        "currencyCode": "PEN",
+        "currencyName": "Peruvian Nuevo Sol",
+        "currencyCountry": "Peru"
+    },
+    {
+        "currencyCode": "PHP",
+        "currencyName": "Philippine Peso",
+        "currencyCountry": "Philippines"
+    },
+    {
+        "currencyCode": "PKR",
+        "currencyName": "Pakistani Rupee",
+        "currencyCountry": "Pakistan"
+    },
+    {
+        "currencyCode": "PLN",
+        "currencyName": "Polish Zloty",
+        "currencyCountry": "Poland"
+    },
+    {
+        "currencyCode": "PYG",
+        "currencyName": "Paraguayan Guarani",
+        "currencyCountry": "Paraguay"
+    },
+    {
+        "currencyCode": "RON",
+        "currencyName": "Romanian Leu",
+        "currencyCountry": "Romania"
+    },
+    {
+        "currencyCode": "RUB",
+        "currencyName": "Russian Ruble",
+        "currencyCountry": "Russian Federation"
+    },
+    {
+        "currencyCode": "SAR",
+        "currencyName": "Saudi Riyal",
+        "currencyCountry": "Saudi Arabia"
+    },
+    {
+        "currencyCode": "SEK",
+        "currencyName": "Swedish Krona",
+        "currencyCountry": "Sweden"
+    },
+    {
+        "currencyCode": "SGD",
+        "currencyName": "Singapore Dollar",
+        "currencyCountry": "Singapore"
+    },
+    {
+        "currencyCode": "THB",
+        "currencyName": "Thai Baht",
+        "currencyCountry": "Thailand"
+    },
+    {
+        "currencyCode": "TRY",
+        "currencyName": "Turkish Lira",
+        "currencyCountry": "Turkey"
+    },
+    {
+        "currencyCode": "TWD",
+        "currencyName": "New Taiwan Dollar",
+        "currencyCountry": "Taiwan"
+    },
+    {
+        "currencyCode": "UAH",
+        "currencyName": "Ukrainian Hryvnia",
+        "currencyCountry": "Ukraine"
+    },
+    {
+        "currencyCode": "USD",
+        "currencyName": "US Dollar",
+        "currencyCountry": "United States"
+    },
+    {
+        "currencyCode": "UYU",
+        "currencyName": "Uruguayan Peso",
+        "currencyCountry": "Uruguay"
+    },
+    {
+        "currencyCode": "ZAR",
+        "currencyName": "South African Rand",
+        "currencyCountry": "South Africa"
+    }
+]
